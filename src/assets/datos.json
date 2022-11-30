@@ -6,7 +6,10 @@
         },
     "titulo1":"Técnico Universitario en Física",
     "titulo2":"Programador PHP y MySql",
+<<<<<<< HEAD
     "titulo3":"Analista de Datos",
+=======
+>>>>>>> 8831d25aaecb5b5a8521f227c8a63f1ee62cb59b
     "residencia":"Túcuman, Argentina",
     "cargo":"Auxiliar Docente",
     "estudiosPyS": {
@@ -29,11 +32,15 @@
         "facebook":"https://i.postimg.cc/zGtn4Htw/face-logo.png",
         "instagram":"https://i.postimg.cc/SKnW4Q3B/instagram.png",
         "whatsapp":"https://i.postimg.cc/SxYmWwM6/whatsapp.png",
+<<<<<<< HEAD
         "agregar":"https://i.postimg.cc/4NGbcgHc/agregar.png",
         "unt:":"./assets/img/logoUNT.jpg",
         "facet":"./assets/img/logoFACET.png",
         "utn":"./assets/img/logoUTN.jpg",
         "fbqf":"./assets/img/logoFQBF.png",
         "unsa":"./assets/img/logoUNSA.png"}
+=======
+        "agregar":"https://i.postimg.cc/4NGbcgHc/agregar.png"}
+>>>>>>> 8831d25aaecb5b5a8521f227c8a63f1ee62cb59b
     
 }
